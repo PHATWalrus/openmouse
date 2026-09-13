@@ -1,6 +1,6 @@
 {
-  "id": "2026-09-razer-mice",
+  "id": "2026-09-razer-chrome-153",
   "level": "warning",
-  "message": "We are aware of issues with Razer Mice within OpenMouse, we are investigating this issue.",
-  "url": ""
+  "message": "Using a Razer mouse? A recent Chrome update may stop it from being detected. Learn more.",
+  "url": "https://openmouse.app/blog-razer-windows-chrome-153"
 }
